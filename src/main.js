@@ -1,3 +1,4 @@
+// import "bootstrap/dist/css/bootstrap.min.css";
 const root = document.getElementById("root");
 
 // create header element
